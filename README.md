@@ -95,7 +95,13 @@ pip install pandas numpy matplotlib seaborn
 Open and run the notebook
 Run the notebook: eda_website_analysis_python.ipynb
 
+# Author & Contact
 
+Jannatul Ferdaus Eva
+
+Data Analyst
+
+📧 Email: jannateva76@gmail.com
 
 
 
